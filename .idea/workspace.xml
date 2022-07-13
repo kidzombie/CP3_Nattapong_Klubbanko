@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2942ab9e-b1f6-4a45-a299-435e630e3f4a" name="Changes" comment="" />
+    <list default="true" id="2942ab9e-b1f6-4a45-a299-435e630e3f4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercise9_Nattapong_K.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +41,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/kidzo/OneDrive/Desktop/PythonProject/venv&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Exercise8_Nattapong_K">
+  <component name="RunManager" selected="Python.Exercise9_Nattapong_K">
     <configuration name="Exercise8_Nattapong_K" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3_Nattapong_Klubbanko" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lecture29_AssignmentOperatorExample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise9_Nattapong_K" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3_Nattapong_Klubbanko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture29_AssignmentOperatorExample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise9_Nattapong_K.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise9_Nattapong_K" />
         <item itemvalue="Python.Exercise8_Nattapong_K" />
         <item itemvalue="Python.lecture33_InputCalculateExample" />
         <item itemvalue="Python.lecture32_InputDataExample" />
         <item itemvalue="Python.lecture31_ConvertDataExample" />
-        <item itemvalue="Python.lecture29_AssignmentOperatorExample" />
       </list>
     </recent_temporary>
   </component>
