@@ -49,7 +49,7 @@
       <recent name="C:\Users\kidzo\OneDrive\Documents\GitHub\CP3_Nattapong_Klubbanko" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lecture86_WriteFileExample">
+  <component name="RunManager" selected="Python.lecture85_WriteFileExample">
     <configuration name="lecture80_ExceptionExample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3_Nattapong_Klubbanko" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lecture86_WriteFileExample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lecture85_WriteFileExample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3_Nattapong_Klubbanko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture86_WriteFileExample.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kidzo\OneDrive\Documents\GitHub\CP3_Nattapong_Klubbanko\lecture85_WriteFileExample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +178,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lecture86_WriteFileExample" />
+        <item itemvalue="Python.lecture85_WriteFileExample" />
         <item itemvalue="Python.lecture84_ReadFileExample" />
         <item itemvalue="Python.lecture82_AssertExample" />
         <item itemvalue="Python.lecture81_ExceptsExample" />
