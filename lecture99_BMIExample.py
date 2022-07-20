@@ -3,7 +3,8 @@ import math
 
 def leftClickButton(event):
     print(float(textBoxWeight.get())/math.pow(float(textBoxHeight.get())/100,2))
-    labelResult.configure(text= float(textBoxWeight.get())/math.pow(float(textBoxHeight.get())/100,2))
+    text1 = "Your BMI :"+ str(round(float(textBoxWeight.get())/math.pow(float(textBoxHeight.get())/100,2),2))
+    labelResult.configure(text= text1)
 
 
 
