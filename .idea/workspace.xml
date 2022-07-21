@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2942ab9e-b1f6-4a45-a299-435e630e3f4a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +49,8 @@
       <recent name="C:\Users\kidzo\OneDrive\Documents\GitHub\CP3_Nattapong_Klubbanko" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="lecture95_WidgetSizeExample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Exercise21_Nattapong_K">
+    <configuration name="Exercise21_Nattapong_K" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3_Nattapong_Klubbanko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +62,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture95_WidgetSizeExample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise21_Nattapong_K.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise21_Nattapong_K" />
         <item itemvalue="Python.lecture99_BMIExample" />
         <item itemvalue="Python.lecture98_EventDrivenExample" />
         <item itemvalue="Python.lecture97_TestExample" />
         <item itemvalue="Python.lecture96_WidgetColorExample" />
-        <item itemvalue="Python.lecture95_WidgetSizeExample" />
       </list>
     </recent_temporary>
   </component>
