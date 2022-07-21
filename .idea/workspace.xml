@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2942ab9e-b1f6-4a45-a299-435e630e3f4a" name="Changes" comment="" />
+    <list default="true" id="2942ab9e-b1f6-4a45-a299-435e630e3f4a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +50,7 @@
       <recent name="C:\Users\kidzo\OneDrive\Documents\GitHub\CP3_Nattapong_Klubbanko" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lecture99_BMIExample">
+  <component name="RunManager" selected="Python.main">
     <configuration name="lecture95_WidgetSizeExample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3_Nattapong_Klubbanko" />
       <option name="INTERPRETER_OPTIONS" value="" />
