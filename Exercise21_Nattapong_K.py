@@ -38,3 +38,4 @@ labelResult.grid(row=2,column=1)
 
 MainWindow.mainloop()
 
+print("1")
